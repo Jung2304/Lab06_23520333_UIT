@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "title": "Getting Started with Next.js",
+    "content": "Next.js is a powerful React framework that enables functionality such as server-side rendering and generating static websites. It provides an excellent developer experience with features like hot reloading, automatic code splitting, and optimized performance out of the box."
+  },
+  {
+    "id": "2",
+    "title": "Understanding Static Site Generation",
+    "content": "Static Site Generation (SSG) is a method where pages are pre-rendered at build time. This results in blazing fast load times and excellent SEO. Next.js makes SSG incredibly easy with getStaticProps and getStaticPaths functions."
+  },
+  {
+    "id": "3",
+    "title": "Server-Side Rendering Explained",
+    "content": "Server-Side Rendering (SSR) generates HTML on each request. This is perfect for pages with frequently changing data or personalized content. Next.js handles SSR seamlessly with the getServerSideProps function."
+  },
+  {
+    "id": "4",
+    "title": "API Routes in Next.js",
+    "content": "Next.js allows you to build your API directly within your Next.js application. API routes provide a straightforward solution to building your API without needing a separate backend server. Simply create files in the pages/api directory."
+  },
+  {
+    "id": "5",
+    "title": "Optimizing Images and Fonts",
+    "content": "Next.js provides built-in components for optimizing images and fonts. The Image component automatically optimizes images for different device sizes and formats, while next/font allows you to self-host Google Fonts for better performance and privacy."
+  },
+  {
+    "id": "6",
+    "title": "Deploying Next.js Applications",
+    "content": "Deploying Next.js applications is straightforward with platforms like Vercel, which is the company behind Next.js. Vercel offers seamless integration, automatic deployments, and optimizations specifically for Next.js apps."
+  }
+]
