@@ -1,6 +1,10 @@
 import SidebarNav from './SidebarNav';
 
-export default function DashboardLayout({ children }) {
+export default function DashboardLayout({ 
+  children 
+}: {
+  children: React.ReactNode
+}) {
   return (
     <div style={{
       display: 'flex',
